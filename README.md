@@ -1,2 +1,2 @@
 # suryadiarya.github.io
-Assignement2
+Assignment no.2
